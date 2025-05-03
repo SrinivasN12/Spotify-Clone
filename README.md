@@ -1,3 +1,2 @@
 Spotify clone..
 
-practiced css
